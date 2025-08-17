@@ -1,0 +1,8 @@
+
+
+If timestamps were to be considered, the approach would need to be somewhat different. 
+In many cases, important information can be extracted from the development of a sensor’s behavior over time. 
+Since a discrete Bayesian Network cannot capture this temporal information A standard discrete Bayesian Network cannot capture this temporal information, 
+and modeling numerical states directly would complicate the representation , a Dynamic Bayesian Network offers a solution. 
+It can represent the connections and relationships not only between different variables, but also between sensor readings 
+across consecutive timestamps. 
