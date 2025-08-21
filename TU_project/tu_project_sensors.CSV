@@ -1,118 +1,120 @@
-Time;Vibration;Pressure;Flow Meter;Status
-2025-02-01 00:00:00;0,1492;101,3024;50,0371;Normal
-2025-02-02 00:00:00;0,1588;101,7893;50,555;Normal
-2025-02-03 00:00:00;0,1713;100,8419;50,2273;Normal
-2025-02-04 00:00:00;0,504;100,7905;50,3743;Roll_surface_damage
-2025-02-05 00:00:00;0,1804;102,1209;52,2335;Normal
-2025-02-06 00:00:00;0,1593;110,6716;50,8491;Hydraulic_leaks
-2025-02-07 00:00:00;0,1687;99,9273;48,1838;Normal
-2025-02-08 00:00:00;0,1506;101,3677;44,0428;Blocked_cooling_channels
-2025-02-09 00:00:00;0,1589;100,4034;49,8433;Normal
-2025-02-10 00:00:00;0,1883;105,5648;49,2737;Normal
-2025-02-11 00:00:00;0,5508;101,0454;50,9002;Roll_surface_damage
-2025-02-12 00:00:00;0,1598;112,1048;51,9155;Hydraulic_leaks
-2025-02-13 00:00:00;0,1506;100,0104;43,27;Blocked_cooling_channels
-2025-02-14 00:00:00;0,1684;102,6596;50,0224;Normal
-2025-02-15 00:00:00;0,1803;103,7425;49,5933;Normal
-2025-02-16 00:00:00;0,1595;100,3713;50,8385;Normal
-2025-02-17 00:00:00;0,5175;100,0548;49,6329;Roll_surface_damage
-2025-02-18 00:00:00;0,1694;109,9747;50,7576;Hydraulic_leaks
-2025-02-19 00:00:00;0,1487;100,9811;45,6717;Blocked_cooling_channels
-2025-02-20 00:00:00;0,1611;101,5577;49,8094;Normal
-2025-02-21 00:00:00;0,1497;100,9418;50,1531;Normal
-2025-02-22 00:00:00;0,1614;101,2597;51,0613;Normal
-2025-02-23 00:00:00;0,1691;100,5931;50,0296;Normal
-2025-02-24 00:00:00;0,495;100,5094;50,3108;Roll_surface_damage
-2025-02-25 00:00:00;0,1806;103,0257;51,5707;Normal
-2025-02-26 00:00:00;0,161;109,9905;51,2735;Hydraulic_leaks
-2025-02-27 00:00:00;0,1691;100,7584;47,7434;Normal
-2025-02-28 00:00:00;0,1509;102,7313;43,6196;Blocked_cooling_channels
-2025-03-01 00:00:00;0,159;101,8401;49,9063;Normal
-2025-03-02 00:00:00;0,1914;106,0151;48,8197;Normal
-2025-03-03 00:00:00;0,549;101,4122;50,6187;Roll_surface_damage
-2025-03-04 00:00:00;0,1597;111,8114;52,3781;Hydraulic_leaks
-2025-03-05 00:00:00;0,149;100,4942;42,7841;Blocked_cooling_channels
-2025-03-06 00:00:00;0,1702;101,041;49,8809;Normal
-2025-03-07 00:00:00;0,1797;102,4753;50,2149;Normal
-2025-03-08 00:00:00;0,1597;100,7377;50,9987;Normal
-2025-03-09 00:00:00;0,5166;100,0225;49,5284;Roll_surface_damage
-2025-03-10 00:00:00;0,1714;108,9282;50,9062;Hydraulic_leaks
-2025-03-11 00:00:00;0,15;102,3255;45,7073;Blocked_cooling_channels
-2025-03-12 00:00:00;0,1612;100,4017;50,3223;Normal
-2025-03-13 00:00:00;0,1493;101,3467;50,3994;Normal
-2025-03-14 00:00:00;0,16;101,3851;51,3641;Normal
-2025-03-15 00:00:00;0,1705;99,3095;49,8773;Normal
-2025-03-16 00:00:00;0,5031;101,3659;50,083;Roll_surface_damage
-2025-03-17 00:00:00;0,1792;103,0416;51,5089;Normal
-2025-03-18 00:00:00;0,1593;110,3423;51,0445;Hydraulic_leaks
-2025-03-19 00:00:00;0,1704;99,9496;47,5318;Normal
-2025-03-20 00:00:00;0,1492;102,0841;44,1328;Blocked_cooling_channels
-2025-03-21 00:00:00;0,1593;100,1586;50,1177;Normal
-2025-03-22 00:00:00;0,1898;105,4742;48,7743;Normal
-2025-03-23 00:00:00;0,1696;102,7529;50,3841;Normal
-2025-03-24 00:00:00;0,1789;102,3187;49,7061;Normal
-2025-03-25 00:00:00;0,16;100,3988;50,6427;Normal
-2025-03-26 00:00:00;0,5232;100,6692;50,3317;Roll_surface_damage
-2025-03-27 00:00:00;0,1709;110,1106;51,5063;Hydraulic_leaks
-2025-03-28 00:00:00;0,151;102,3447;45,684;Blocked_cooling_channels
-2025-03-29 00:00:00;0,1594;101,2226;50,0188;Normal
-2025-03-30 00:00:00;0,16;100,5;49,9505;Normal
-2025-03-31 00:00:00;0,15;100,1459;50,1228;Normal
-2025-04-01 00:00:00;0,1602;102,8684;51,1208;Normal
-2025-04-02 00:00:00;0,17;100,0327;49,9505;Normal
-2025-04-03 00:00:00;0,4957;100,7286;50,2531;Roll_surface_damage
-2025-04-04 00:00:00;0,1811;102,4258;51,8222;Normal
-2025-04-05 00:00:00;0,16;109,5275;50,8553;Hydraulic_leaks
-2025-04-06 00:00:00;0,1697;99,6194;47,8009;Normal
-2025-04-07 00:00:00;0,1502;102,986;44,1688;Blocked_cooling_channels
-2025-04-08 00:00:00;0,16;100,7589;49,8678;Normal
-2025-04-09 00:00:00;0,1905;105,5444;49,0365;Normal
-2025-04-10 00:00:00;0,5481;102,3842;51,1689;Roll_surface_damage
-2025-04-11 00:00:00;0,1589;110,6454;52,4471;Hydraulic_leaks
-2025-04-12 00:00:00;0,1509;101,0668;43,1557;Blocked_cooling_channels
-2025-04-13 00:00:00;0,1686;102,8878;50,0112;Normal
-2025-04-14 00:00:00;0,1791;104,0194;49,9751;Normal
-2025-04-15 00:00:00;0,1615;99,8126;50,4985;Normal
-2025-04-16 00:00:00;0,5222;101,6484;49,5056;Roll_surface_damage
-2025-04-17 00:00:00;0,1707;111,0869;50,5845;Hydraulic_leaks
-2025-04-18 00:00:00;0,15;102,1236;46,0785;Blocked_cooling_channels
-2025-04-19 00:00:00;0,1606;101,462;50,26;Normal
-2025-04-20 00:00:00;0,15;101,1459;49,1228;Normal
-2025-04-21 00:00:00;0,1515;101,7217;50,1301;Normal
-2025-04-22 00:00:00;0,1589;101,0678;50,8309;Normal
-2025-04-23 00:00:00;0,1693;99,6068;49,7902;Normal
-2025-04-24 00:00:00;0,4998;101,2011;50,0889;Roll_surface_damage
-2025-04-25 00:00:00;0,1787;102,8763;52,1771;Normal
-2025-04-26 00:00:00;0,1587;110,7828;51,1001;Hydraulic_leaks
-2025-04-27 00:00:00;0,1688;100,0153;48,1774;Normal
-2025-04-28 00:00:00;0,1511;101,0414;43,5601;Blocked_cooling_channels
-2025-04-29 00:00:00;0,16;100,0163;50,1877;Normal
-2025-04-30 00:00:00;0,19;106,0211;49,0761;Normal
-2025-05-01 00:00:00;0,5531;101,4516;51,1575;Roll_surface_damage
-2025-05-02 00:00:00;0,16;109,9364;51,7892;Hydraulic_leaks
-2025-05-03 00:00:00;0,1486;101,6333;43,0613;Blocked_cooling_channels
-2025-05-04 00:00:00;0,171;101,0322;49,901;Normal
-2025-05-05 00:00:00;0,1814;102,883;49,7884;Normal
-2025-05-06 00:00:00;0,1597;99,3353;51,2067;Normal
-2025-05-07 00:00:00;0,5236;100,8027;50,4974;Roll_surface_damage
-2025-05-08 00:00:00;0,1697;109,7915;50,6872;Hydraulic_leaks
-2025-05-09 00:00:00;0,149;102,4503;45,627;Blocked_cooling_channels
-2025-05-10 00:00:00;0,1615;100,1897;49,5109;Normal
-2025-05-11 00:00:00;0,15;100,1897;50;Normal
-2025-05-12 00:00:00;0,1506;101,6199;49,5049;Normal
-2025-05-13 00:00:00;0,1595;102,7213;50,5684;Normal
-2025-05-14 00:00:00;0,1698;100,3948;49,8892;Normal
-2025-05-15 00:00:00;0,5026;100,6779;50,0779;Roll_surface_damage
-2025-05-16 00:00:00;0,1799;103,3656;52,2963;Normal
-2025-05-17 00:00:00;0,1602;108,9545;50,5852;Hydraulic_leaks
-2025-05-18 00:00:00;0,1697;100,388;47,5222;Normal
-2025-05-19 00:00:00;0,1499;102,6389;44,2601;Blocked_cooling_channels
-2025-05-20 00:00:00;0,161;101,3531;49,741;Normal
-2025-05-21 00:00:00;0,1902;105,6696;48,7433;Normal
-2025-05-22 00:00:00;0,5524;102,2631;50,7253;Roll_surface_damage
-2025-05-23 00:00:00;0,1588;109,9132;52,0317;Hydraulic_leaks
-2025-05-24 00:00:00;0,1494;101,4545;43,0468;Blocked_cooling_channels
-2025-05-25 00:00:00;0,1714;101,3263;50,2825;Normal
-2025-05-26 00:00:00;0,1785;102,7087;49,9474;Normal
-2025-05-27 00:00:00;0,1599;99,4141;51,4323;Normal
-2025-05-28 00:00:00;0,1613;101,7002;50,2903;Normal
+Alarm1;Alarm2;Alarm3;Alarm4;Machine_State;Maintenance_action;OEE;SPARE_COST
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+1;1;0;0;Operating;None;91;0
+0;0;1;1;Failure;Replace_Roll;87;525
+1;0;0;1;Failure;Inspect_hydraulics;85;320
+1;1;0;1;Failure;Replace_hydraulic_pump;75;600
+0;1;0;0;Operating;None;97;0
+1;0;0;0;Operating;Refill_hydraulic_fluid;89;100
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;95;150
+0;1;0;1;Operating;None;94;0
+0;1;0;0;Operating;None;95;0
+1;1;0;1;Failure;Replace_hydraulic_pump;78;600
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;90;150
+1;1;0;1;Failure;Replace_hydraulic_pump;78;600
+0;1;0;0;Operating;None;97;0
+1;0;0;1;Failure;Inspect_hydraulics;85;320
+0;1;0;0;Operating;None;97;0
+1;0;0;0;Operating;Refill_hydraulic_fluid;89;100
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;95;150
+0;1;0;1;Operating;None;96;0
+0;1;0;0;Operating;None;95;0
+1;1;0;1;Failure;Replace_hydraulic_pump;75;600
+0;1;0;0;Operating;None;97;0
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+1;1;0;0;Operating;None;91;0
+0;0;1;1;Failure;Replace_Roll;88;525
+1;0;0;1;Failure;Inspect_hydraulics;88;320
+1;1;0;1;Failure;Replace_hydraulic_pump;75;600
+1;0;0;1;Failure;Inspect_hydraulics;85;320
+1;1;0;1;Failure;Replace_hydraulic_pump;75;650
+0;1;0;0;Operating;None;97;0
+1;0;0;0;Operating;Refill_hydraulic_fluid;89;100
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;95;160
+0;1;0;1;Operating;None;94;0
+0;1;0;0;Operating;None;96;0
+1;1;0;1;Failure;Replace_hydraulic_pump;78;600
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+1;1;0;0;Operating;None;91;0
+0;1;1;1;Failure;Replace_Roll;87;525
+1;0;0;1;Failure;Inspect_hydraulics;85;320
+1;1;0;1;Failure;Replace_hydraulic_pump;75;600
+0;1;0;0;Operating;None;97;0
+1;0;0;0;Operating;Refill_hydraulic_fluid;89;100
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;95;150
+0;1;0;1;Operating;None;94;0
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;95;160
+0;1;0;1;Operating;None;94;0
+0;1;0;0;Operating;None;96;0
+1;1;0;1;Failure;Replace_hydraulic_pump;78;600
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+1;1;0;0;Operating;None;91;0
+0;1;1;1;Failure;Replace_Roll;87;525
+1;0;0;1;Failure;Inspect_hydraulics;85;320
+0;0;0;1;Failure;Clean_roll_surface;90;150
+1;1;0;1;Failure;Replace_hydraulic_pump;78;600
+0;1;0;0;Operating;None;97;0
+1;0;0;1;Failure;Inspect_hydraulics;85;320
+0;1;0;0;Operating;None;97;0
+1;0;0;0;Operating;Refill_hydraulic_fluid;89;100
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;95;160
+0;1;0;1;Operating;None;94;0
+0;1;0;0;Operating;None;96;0
+1;1;0;1;Failure;Replace_hydraulic_pump;78;600
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+1;1;0;0;Operating;None;91;0
+0;1;1;1;Failure;Replace_Roll;86;525
+1;0;0;1;Failure;Inspect_hydraulics;85;320
+0;0;0;1;Failure;Clean_roll_surface;90;150
+1;1;0;1;Failure;Replace_hydraulic_pump;78;600
+0;1;0;0;Operating;None;97;0
+1;0;0;1;Failure;Inspect_hydraulics;85;320
+0;1;0;0;Operating;None;97;0
+1;0;0;0;Operating;Refill_hydraulic_fluid;89;100
+0;1;0;1;Operating;None;98;0
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;95;160
+0;0;1;1;Failure;Replace_Roll;87;525
+1;0;0;1;Failure;Inspect_hydraulics;85;320
+1;1;0;1;Failure;Replace_hydraulic_pump;75;600
+0;1;0;0;Operating;None;97;0
+1;0;0;0;Operating;Refill_hydraulic_fluid;89;100
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;95;150
+0;1;0;1;Operating;None;94;0
+0;1;0;0;Operating;None;95;0
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;95;150
+0;1;0;1;Operating;None;94;0
+0;1;0;1;Operating;None;93;0
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+0;0;0;1;Failure;Clean_roll_surface;95;160
+0;1;0;1;Operating;None;94;0
+0;1;0;0;Operating;None;96;0
+1;1;0;1;Failure;Replace_hydraulic_pump;73;650
+0;1;0;1;Operating;None;93;0
+0;1;0;0;Operating;None;97;0
+1;1;0;0;Operating;None;91;0
+0;1;1;1;Failure;Replace_Roll;87;525
+1;0;0;1;Failure;Inspect_hydraulics;85;320
